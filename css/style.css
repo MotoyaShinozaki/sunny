@@ -35,7 +35,7 @@ img {
     margin-left: 36px;
 }
 .main-nav a {
-    color: #432;
+    color: #0bd;
 }
 .main-nav a:hover {
     color: #0bd;
@@ -102,7 +102,7 @@ img {
 /* NEWS
 --------------------------------------- */
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(../images/wine2.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
