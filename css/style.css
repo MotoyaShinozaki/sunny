@@ -125,6 +125,7 @@ footer p {
 /* 記事部分 */
 article {
     width: 74%;
+    color: #432;
 }
 
 /* サイドバー */
@@ -147,7 +148,7 @@ aside {
 .post-date {
     background: #0bd;
     border-radius: 50%;
-    color: #fff;
+    color: #432;
     width: 100px;
     height: 100px;
     font-size: 1.625rem;
